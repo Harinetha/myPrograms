@@ -1,7 +1,7 @@
 def main():
 	try:
-		a=input()
-		if int(a):
+		i=input()
+		if int(i):
 			print('true')
 	except:
 		print('false')
