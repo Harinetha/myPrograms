@@ -9,7 +9,7 @@ public class password {
 		String s2 = s.next();
 		int l1 = s1.length();
 		int l2 = s2.length();
-		int t1 =0,t2 =0;
+		int t1 =1,t2 =1;
 		int max = l1>l2 ? l1:l2;
 		for(int i = 0; i< max*2 ; i++) {
 			if(i%2 == 0) {
