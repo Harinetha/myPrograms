@@ -14,7 +14,7 @@ public class Main {
 	        for( int j = 0; j < i; j++) {
 	        		temp = temp + str1.charAt(j);
 	        }
-			System.out.println( temp );
+			//System.out.println( temp );
 			for(int k = 0; k < temp.length() ;k++){
 			    c = 0;
 			    for(int m = 0; m < temp.length() ;m++){
